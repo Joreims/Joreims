@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="142" src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.youtube.com/channel/UCw-4S_eOuV2rYvwXRjlnF-Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -18,17 +12,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Joreims.Joreims&"  />
-</div>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<img align="right" height="150" src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif"  />
 
 ###
 
-<p align="left">I'm Joreims from Nicaragua<br><br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.</p>
+<p align="left">I'm Joreims from Nicaragua<br><br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>- I´m 18 years old</p>
 
 ###
 
@@ -48,6 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/	onhy5vdmatbne052vlg36cwjo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
