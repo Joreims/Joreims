@@ -1,12 +1,12 @@
-<h3 align="center">👩‍💻  About Me</h3>
+<img align="right" height="174" src="https://media.giphy.com/media/pHZ8BBgLaXPliFNudh/giphy.gif"  />
 
 ###
 
-<img align="right" height="154" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
+<h2 align="center">👩‍💻 About Me</h2>
 
 ###
 
-<p align="center">I'm Joreims from Nicaragua<br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>-  ⏳ I´m 18 years old</p>
+<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>-  ⏳ I´m 18 years old</p>
 
 ###
 
