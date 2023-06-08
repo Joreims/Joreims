@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif"  />
 
 ###
 
@@ -55,9 +55,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/	onhy5vdmatbne052vlg36cwjo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
 </div>
 
 ###
