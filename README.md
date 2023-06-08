@@ -2,27 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
 
 ###
 
 <p align="left">I'm Joreims from Nicaragua<br><br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>-  ⏳ I´m 18 years old</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCw-4S_eOuV2rYvwXRjlnF-Q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/Jorgamesofi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.twitch.tv/jorgamesoficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-</div>
 
 ###
 
@@ -55,7 +39,28 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joreims&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joreims&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Joreims/Joreims/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCw-4S_eOuV2rYvwXRjlnF-Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="21" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/Jorgamesofi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="21" alt="twitter logo"  />
+  </a>
+  <a href="https://www.twitch.tv/jorgamesoficial" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="33" height="21" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
