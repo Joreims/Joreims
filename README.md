@@ -6,11 +6,6 @@
 
 ###
 
-<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>-  ⏳ I´m 19 years old</p>
-
-###
-
-<div align="center">
   <a href="https://www.youtube.com/channel/UCw-4S_eOuV2rYvwXRjlnF-Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="21" alt="youtube logo"  />
   </a>
