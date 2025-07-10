@@ -4,7 +4,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying systems engineer<br>- ⚡ In my free time I like to make videos about video games.<br>-  ⏳ I´m 19 years old</p>
+<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying computer sciences<br>- -  ⏳ I´m 20 years old</p>
 
 ###
 
