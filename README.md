@@ -4,7 +4,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying computer sciences<br>- -  ⏳ I´m 20 years old</p>
+<p align="center">- 🌎 From Nicaragua<br>- 🔭 I’m studying computer sciences<br>-  ⏳ I´m 20 years old</p>
 
 ###
 
